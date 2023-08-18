@@ -9,3 +9,4 @@ let peso=prompt("peso")
 let nascimento=2023-idade
 let imc=peso/(altura*altura)
 console.log("Olá "+nome+", você tem "+idade+" anos, nasceu em "+nascimento+", tem "+altura+" de altura, pesa"+peso+" kg, seu imc é "+imc+" kg/m2")
+a 
